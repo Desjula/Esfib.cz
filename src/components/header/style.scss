@@ -1,0 +1,22 @@
+.header{
+  background-color: #434342;
+  display: flex;
+  justify-content: space-around;
+}
+
+.header__logo{
+  width: 300px;
+  padding: 30px;
+}
+
+.header__links{
+  display: flex;
+  width: 350px;
+  justify-content: space-between;
+  margin: auto 0;
+}
+
+.header__link{
+  text-decoration: none;
+  color: #FFFFFF;
+}

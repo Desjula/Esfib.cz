@@ -1,0 +1,31 @@
+.picture_beginning__img {
+  width: 100%;
+  max-height: 500px;
+  background-position: 100%;
+}
+.picture_beginning__stripe {
+  background-color: rgb(52, 52, 52);
+}/*# sourceMappingURL=style.css.map */*/;
+  max-width: 350px;
+}
+.reference__button {
+  height: 20px;
+  margin-top: 20px;
+  background-color: #7F9532;
+  border: none;
+  color: #FFFFFF;
+  font-weight: bold;
+}
+.reference__header {
+  margin-bottom: 20px;
+  color: #FFFFFF;
+}/*# sourceMappingURL=style.css.map */, a {
+  text-transform: uppercase;
+  font-family: "header", sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-family: "normal_text", sans-serif;
+}/*# sourceMappingURL=style.css.map */

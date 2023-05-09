@@ -1,0 +1,19 @@
+.kontakt{
+  padding: 50px 300px;
+  display: flex;
+
+  &__form{
+    margin: 10px;
+    width: 500px;
+
+    &__input{
+      border-radius: 5px;
+      border-color: #898988;
+    }
+  }
+
+  &__udaje{
+    margin: 10px;
+    max-width: 300px;
+  }
+}

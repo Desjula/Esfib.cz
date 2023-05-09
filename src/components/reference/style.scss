@@ -1,0 +1,29 @@
+.reference{
+  background-color: #7F9532;
+  text-align: center;
+  padding: 20px;
+
+  &__buildings{
+    display: flex;
+    flex-wrap: wrap;
+
+    &__pic{
+      filter: grayscale(100%);
+      max-width: 350px;
+    }
+  }
+
+  &__button{
+    height: 20px;
+    margin-top: 20px;
+    background-color: #7F9532;
+    border: none;
+    color: #FFFFFF;
+    font-weight: bold;
+  }
+
+  &__header{
+    margin-bottom: 20px;
+    color: #FFFFFF;
+  }
+}
